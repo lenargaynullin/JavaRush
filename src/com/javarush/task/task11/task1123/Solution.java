@@ -25,6 +25,7 @@ public class Solution {
                 max = inputArray[i];
             }
         }
+        
         return new Pair(min, max);
     }
 
